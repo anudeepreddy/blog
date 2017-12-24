@@ -7,7 +7,7 @@ tags:
 description: |
   Edward snowden launched an App which can turn your phone into a Spy tool
 hero: https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjCt5iO8qLYAhUJMo8KHXVuBkoQjRwIBw&url=http%3A%2F%2Fwww.businessinsider.com%2Fedward-snowden-haven-security-app-2017-12&psig=AOvVaw12WNhBBQRgB7pgYvi2Ocde&ust=1514213258025718
-overlay: green
+overlay: blue
 published: true
 date: 2017-12-24 00:00:00 +0000
 ---
