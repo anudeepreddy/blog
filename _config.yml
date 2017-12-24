@@ -1,5 +1,5 @@
 # Base blog settings
-baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "/blog/" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
 url                          : "https://anudeepreddy.github.io" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
@@ -26,14 +26,14 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Anudeep reddy
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
+  mail                      : anudeepc85@gmail.com # change to your e-mail address
+  twitter                   : Anudeepc85
+  github                    : anudeepreddy
+  youtube                   : UChHm1wkJ83cvxli75EMfwRw
+  stackoverflow             : anudeep-reddy
+  disqus                    : techgeekhub # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
