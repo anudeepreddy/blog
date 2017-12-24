@@ -7,7 +7,7 @@ url                          : "https://anudeepreddy.github.io" # the base hostn
 blog:
   title                      : Anudeep
   description                  : >
-                               this should contain a proper description
+                               
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
