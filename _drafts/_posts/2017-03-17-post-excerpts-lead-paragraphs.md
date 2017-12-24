@@ -2,11 +2,12 @@
 layout: post
 title: Post excerpts and leading paragraphs
 tags:
-  - dactl
-  - howto
-hero: 'https://source.unsplash.com/collection/261936/'
+- dactl
+- howto
+hero: https://source.unsplash.com/collection/261936/
 overlay: blue
 published: true
+date: 2017-03-17 00:00:00 +0000
 ---
 
 By default, dactl's blog layout displays post excerpts which are leading paragraphs as well. This requires some manual work on your part when writing a post but don't worry - it's really easy. Read on for more info.
