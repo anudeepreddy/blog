@@ -43,8 +43,8 @@ and all signal notifications. The app also gives the users option to tunnel the 
 I recommend you to try it yourself and comment your experience below. I am leaving the link below for you to download.
 <!–-break-–>
 ## Download
--<a href="https://guardianproject.github.io/haven/">Home Page</a><!–-break-–>
--<a href="https://play.google.com/store/apps/details?id=org.havenapp.main">Playstore</a><!–-break-–>
--<a href="https://github.com/guardianproject/haven">GitHub</a><!–-break-–>
+-<a href="https://guardianproject.github.io/haven/">Home Page</a><br>
+-<a href="https://play.google.com/store/apps/details?id=org.havenapp.main">Playstore</a><br>
+-<a href="https://github.com/guardianproject/haven">GitHub</a><br>
 
 Thats all Folks!!!
