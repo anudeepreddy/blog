@@ -3,17 +3,17 @@
   "name": "Anudeep",
   "icons": [
     {
-      "src": "/assets/js/main.png",
+      "src": "/assets/img/main.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "/assets/js/main.png",
+      "src": "/assets/img/main.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "/assets/js/main.png",
+      "src": "/assets/img/main.png",
       "type": "image/png",
       "sizes": "192x192"
     }
