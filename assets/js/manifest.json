@@ -3,18 +3,18 @@
   "name": "Anudeep",
   "icons": [
     {
-      "src": "/blog/uploads/flat-news-app-icon-design-ramotion.gif",
-      "type": "image/gif",
+      "src": "/blog/uploads/main1.png",
+      "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "/blog/uploads/flat-news-app-icon-design-ramotion.gif",
-      "type": "image/gif",
+      "src": "/blog/uploads/main1.png",
+      "type": "image/png",
       "sizes": "96x96"
     },
     {
-       "src": "/blog/uploads/flat-news-app-icon-design-ramotion.gif",
-      "type": "image/gif",
+       "src": "/blog/uploads/main1.png",
+      "type": "image/png",
       "sizes": "192x192"
     }
   ],
