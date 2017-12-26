@@ -3,21 +3,21 @@
   "name": "Anudeep",
   "icons": [
     {
-      "src": "https://anudeepreddy.github.io/blog/uploads/main.png",
+      "src": "/blog/uploads/main.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "https://anudeepreddy.github.io/blog/uploads/main.png",
+      "src": "/blog/uploads/main.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "https://anudeepreddy.github.io/blog/uploads/main.png",
+      "src": "/blog/uploads/main.png",
       "type": "image/png",
       "sizes": "192x192"
     }
   ],
-  "start_url": "/",
+  "start_url": "/blog",
   "display": "standalone"
 }
