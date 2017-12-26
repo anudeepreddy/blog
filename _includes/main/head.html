@@ -48,7 +48,19 @@
       font-family: {{ site.blog.font }};
     }
 </style>
-
+<!-- service worker -->
+<script>
+    function registerServiceWorker() {
+  // register sw script in supporting browsers
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('assets/js/sw.js', { scope: '/' }).then(() => {
+      console.log('Service Worker registered successfully.');
+    }).catch(error => {
+      console.log('Service Worker registration failed:', error);
+    });
+  }
+}
+</script>
 
 {% endif %}
 
