@@ -7,7 +7,7 @@ self.addEventListener('install', e => {
      return cache.addAll([
        '/',
        '/index.html',
-       '/about.html',    
+       '/blog',    
      ]);
    })
  );
