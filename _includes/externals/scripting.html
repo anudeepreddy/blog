@@ -1,4 +1,32 @@
 <!-- load theme switcher and barefoot footnotes -->
+<!-- service worker -->
+<script>
+    function registerServiceWorker() {
+  // register sw script in supporting browsers
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('https://anudeepreddy.github.io/blog/assets/js/sw.js', { scope: '/' }).then(() => {
+      console.log('Service Worker registered successfully.');
+    }).catch(error => {
+      console.log('Service Worker registration failed:', error);
+    });
+  }
+}
+</script>
+<script>
+    window.addEventListener('beforeinstallprompt', function(e) {
+  // beforeinstallprompt Event fired
+  // e.userChoice will return a Promise.
+  // For more details read: https://developers.google.com/web/fundamentals/getting-started/primers/promises
+  e.userChoice.then(function(choiceResult) {
+    console.log(choiceResult.outcome);
+    if(choiceResult.outcome == 'dismissed') {
+      console.log('User cancelled home screen install');
+    }
+    else {
+      console.log('User added to home screen');
+    }
+  });
+});</script>
 
 <script type="text/javascript" src="{{ "assets/js/theme.js" | relative_url }}"></script>
 {% if site.blog.inline_footnotes == true %}
