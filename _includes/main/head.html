@@ -18,7 +18,7 @@
 {% if page.description %} {% assign description = page.description %} {% else %} {% assign description = site.blog.description %} {% endif %}
 {% if page.keywords %} {% assign keywords = page.keywords %} {% else %} {% assign keywords = site.keywords %} {% endif %}
 {% if page.cover %} {% assign cover = page.cover %} {% else %} {% assign cover = site.cover %} {% endif %}
-
+<link rel="manifest" href="assets/js/manifest.json">
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="{{ title }}" />
